@@ -1,12 +1,10 @@
-#console hard 3 4279 -449
-#play,Library,37
-
 console hard 3
    1
 
 #Start
   61
 
+## Start
 #lvl_00
    6,R,Z
    1,R,J
@@ -190,6 +188,7 @@ console hard 3
    5,R,K
   40
 
+## Staff Quarters
 #lvl_06
    1,L,K
    1,J,G
@@ -346,7 +345,6 @@ console hard 3
    4,R
   25,R,D
   12,D
-#Library
   14,L,D,X
    1,R,J
   15,R,D,X
@@ -354,6 +352,7 @@ console hard 3
    4,R,D,J
   40
 
+## Library
 #lvl_11
    1,R,J
    1,L,J
@@ -596,6 +595,7 @@ console hard 3
    5,R,U,Z
   40
 
+## Rooftop
 #lvl_16
   12,R,U,Z
   19,U,X
@@ -831,4 +831,5 @@ console hard 3
   14,R,J
   15,R,U,X
  135,R,D
+##
 ChapterTime: 1:27.907(5171)

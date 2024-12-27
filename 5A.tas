@@ -1,15 +1,10 @@
-#console load 5 2424 -47
-#play,Depths,37
-
-#console load 5 3296 1768
-#play,Search,37
-
 console load 5
    1
 
 #Start
  110
 
+## Start
 #lvl_a-00b
    1,S
    1,D,J
@@ -109,7 +104,7 @@ console load 5
   96,U,C
   43
 
-#lvl_a-08
+#lvl_a-08 (0)
   34,U,C
    1,J
    4,R,K
@@ -148,7 +143,7 @@ console load 5
    1,L,J
   40
 
-#lvl_a-08
+#lvl_a-08 (1)
   16,L,D
   14,R,D
   14,R,D,X
@@ -217,10 +212,10 @@ console load 5
    7,R,U,Z
   40
 
+## Depths
 #lvl_b-00
    8,R,U,Z
   22,R,U,X
-#Depths
    1,S
    1,D,J
   34
@@ -365,10 +360,11 @@ console load 5
    2,R
   40
 
-#lvl_b-19
+#lvl_b-19 (0)
 read,5S,lvl_b-19,lvl_b-16
 
-#lvl_b-16
+## Unravelling
+#lvl_b-16 (0)
 read,5S,lvl_b-16,lvl_c-08
 
 #lvl_c-08
@@ -450,12 +446,12 @@ read,5S,lvl_b-16,lvl_c-08
    1,R
   40
 
-#lvl_c-07
+#lvl_c-07 (0)
 read,5S,lvl_c-07,lvl_d-01 (0)
 
+## Search
 #lvl_d-01
   32
-#Search
   10,L,Z
    7,L,J
   15,L,U,V
@@ -541,6 +537,7 @@ read,5S,lvl_c-07,lvl_d-01 (0)
   17,L,J
   40
 
+## Rescue
 #lvl_d-19b (1)
 read,5S,lvl_d-19b (1),Spinner Cycle
    0
@@ -636,6 +633,7 @@ read,5S,-------------,lvl_e-06
    1,G
   40
 
-#lvl_e-08
+#lvl_e-08 (0)
 Read,5S,lvl_e-08
+##
 FileTime: 3:07.272(11016)

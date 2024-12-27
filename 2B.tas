@@ -4,6 +4,7 @@ console hard 2
 #Start
  190
 
+## Start
 #lvl_start
    6,R,Z
    1,R,J
@@ -133,6 +134,7 @@ console hard 2
    1,K
   40
 
+## Combination Lock
 #lvl_03
   12,L,J,G
   14,L,Z
@@ -338,6 +340,7 @@ console hard 2
    1,J
   40
 
+## Dream Altar
 #lvl_08b
    1,R,J,G
   18,R
@@ -533,4 +536,5 @@ console hard 2
    5,J
   16,U,X
  135
+##
 ChapterTime: 1:15.633(4449)

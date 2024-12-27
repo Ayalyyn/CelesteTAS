@@ -1,18 +1,10 @@
-#console load 3 4279 -20
-#play,Huge Mess,37
-
-#console load 3 4705.4 -274
-#play,Elevator Shaft,37
-
-#console load 3 2121 -559.9
-#play,Rooftop,37
-
 console load 3
    1
 
 #Start
   61
 
+## Start
 #lvl_s0
    8,R,Z
    1,R,J
@@ -868,12 +860,12 @@ Endrepeat
   10,R
   15,R,Z
   15,R,C
-#Huge Mess
   14,R,D,X
    1,R,J
    8,R,U,Z
   40
 
+## Huge Mess
 #lvl_08-a
    5,R,U,Z
    1,L
@@ -1804,11 +1796,11 @@ SaveAndQuitReenter
   34
    2,J
    1,L,J
-#Elevator Shaft
   12,U,X
    1,J
   40
 
+## Elevator Shaft
 #lvl_09-d
    1,L
    1,R
@@ -2253,12 +2245,12 @@ SaveAndQuitReenter
   20,L,X
   22,L,C
   26,L,X
-#Rooftop
    7,L,Z
    1,L,J
    1,L
   40
 
+## Presidential Suite
 #lvl_00-d
    5,L
    1,L,J
@@ -2608,4 +2600,5 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
+##
 FileTime: 4:45.090(16770)

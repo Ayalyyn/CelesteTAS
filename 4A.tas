@@ -1,12 +1,10 @@
-#console load 4 9391.7 -4360
-#play,Cliff Face,37
-
 console load 4
    1
 
 #Start
   69
 
+## Start
 #lvl_a-00
    5,R,D,X
    3,R,J
@@ -231,6 +229,7 @@ console load 4
    4,J
   40
 
+## Shrine
 #lvl_b-00
   11,R
   14,R,U,X
@@ -355,6 +354,7 @@ console load 4
    9,U,X
   40
 
+## Old Trail
 #lvl_c-00
    1,R,J,G
    1,R,K,G
@@ -687,10 +687,10 @@ console load 4
    1,J
   40
 
+## Cliff Face
 #lvl_d-00
    1,R,J,G
   10,R
-#Cliff Face
    4,Z
    1,R,J
    2,R
@@ -926,4 +926,5 @@ console load 4
    1,S
    1,D,J
   18
+##
 ChapterTime: 1:46.454(6262)

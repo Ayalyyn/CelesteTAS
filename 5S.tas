@@ -18,6 +18,7 @@ console load 5
 #Start
  110
 
+## Start
 #lvl_a-00b (0)
    1,S
    1,D,J
@@ -849,9 +850,8 @@ Add 58
   46
 Add 1
 
-#Depths
+## Depths
   36
-
 #lvl_b-00 (1)
    4,D,X
    1,R,J
@@ -1744,7 +1744,7 @@ AnalogMode,Ignore
    1,J,F,180
 SaveAndQuitReenter
   36
-#Unravelling
+## Unravelling
    4,D,X
    1,R,J
    2,R
@@ -2135,6 +2135,7 @@ SaveAndQuitReenter
    1,J
   40
 
+## Search
 #lvl_d-00
   10,L,J
    1,L
@@ -2150,7 +2151,6 @@ SaveAndQuitReenter
    2,L
   13,U,Z
    9,R,J
-#Search
   49,R,X
   15,U,C
    6,R
@@ -2794,7 +2794,7 @@ Endrepeat
    6,R
   40
 
-#Rescue
+## Rescue
 #lvl_e-00
    1,R
    8,R,J
@@ -3117,4 +3117,5 @@ EndStunPause
    1,S
    1,D,J
   18
+##
 FileTime: 6:25.373(22669)

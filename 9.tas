@@ -1,33 +1,10 @@
-#For loads Remembered - Determination
-Set,DashMode,Two
-
-#console load 10 12807 -4216
-#play,Remembered,37
-
-#console load 10 18579 -6184
-#play,Event Horizon,37
-
-#console load 10 28203 -8088
-#play,Determination,37
-
-#Dont comment out
-Set,DashMode,Normal
-
-#console load 10 43604 -8706
-#play,Stubbornness,37
-
-#console load 10 48406 -10328
-#play,Reconciliation,41
-
-#console load 10 61392 -10554
-#play,Farewell,38
-
 console load 10
    1
 
 #Start
   98
 
+## Start
 #c-00 cycle 0-2
    0
 #--------------
@@ -165,6 +142,7 @@ console load 10
   29,R,J,G
   40
 
+## Singular
 #lvl_a-00
   10,R
   14,R,U,Z
@@ -375,9 +353,10 @@ console load 10
 #lvl_b-03
    7,R,J
   15,R,D,X
-   3,R,D
-   1,R
-   2
+   3,R
+   1,R,D
+   1,D
+   1
    1,R
    2
    1,R,J
@@ -546,9 +525,9 @@ console load 10
    1,R,J
   40
 
+## Power Source
 #lvl_c-00
    1,R
-#Power Source
   12,R,Z
    1,R,J
    6,R
@@ -775,10 +754,10 @@ EndStunPause
   52
   14,U,X
    2,J
-#Remembered
    9,U,C
   40
 
+## Remembered
 #lvl_e-00z
    5,J
    9,R,J
@@ -912,7 +891,10 @@ EndStunPause
    1
    4,R,J
    1,J
-   4,R
+   1,R
+   1,R
+   1,R
+   1,R
   15,U,X
    5,R,U,C
   18,R
@@ -925,8 +907,9 @@ EndStunPause
    1,L
   11,R
   19,R,U,X
-  16,R,C
-   1
+  15,R,C
+   1,R
+   1,L
   15,R,X
   16,R,D
    1,D
@@ -937,7 +920,7 @@ EndStunPause
   18,R,U,Z
   15,U,X
    8,R
-Repeat,6
+Repeat, 6
    1,L
    1,R
 EndRepeat
@@ -1191,8 +1174,8 @@ EndStunPause
    1,S
    1,D,J
   34
-
-#Event Horizon
+## Event Horizon
+***
    1,R,J
    4,Z
    1,R,J
@@ -1774,7 +1757,6 @@ Endstunpause
    1,R,J
    7,R
    1,R,J
-#Determination
   14,R,D,X
   40
 
@@ -1912,6 +1894,7 @@ Endstunpause
    1,R,K
   40
 
+## Determination
 #lvl_h-00b
    2,R,K
    1,R
@@ -2570,12 +2553,11 @@ AnalogMode,Precise
    5,R
    1
   26,R,K
-   3,R,U,X
-#Stubbornness
-  14,R,U,X
+  17,R,U,X
  348
   40
 
+## stubbornness
 #lvl_i-00
    1,S
    1,D,J
@@ -2830,7 +2812,6 @@ AnalogMode,Precise
   24,R,U,Z
    5,R,D,C
   16,R
-#Reconciliation
   16,R,U,X
    1,J,G
    1,R
@@ -2845,6 +2826,7 @@ AnalogMode,Precise
   10,R,D,C
   40
 
+## Reconciliation
 #lvl_j-00
    4,R,D,C
    1,R,J
@@ -3330,7 +3312,6 @@ AnalogMode,Precise
    6,R
   26,R,U,Z
    4,R,J
-#Farewell
   14,R,Z
   11,R,J
   15,R,D,X
@@ -3442,6 +3423,7 @@ AnalogMode,Precise
   43,R,U,J,G
   40
 
+## Farewell
 #lvl_j-10
   11,R,G
    5,R,D,G
@@ -3716,6 +3698,7 @@ EndStunpause
   14,U,X
   38
 AnalogMode,Ignore
+##
 #End_IGT
 ChapterTime: 8:03.922(28466)
 

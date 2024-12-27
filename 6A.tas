@@ -1,10 +1,7 @@
-#console load 6 11364 -414
-#AnalogMode,Precise
-#play,Rock Bottom,38
-
 console load 6
    1
 
+## Start
 #Start
  110
    1,S
@@ -62,6 +59,7 @@ AnalogMode,Precise
    1,D,J
   18
 
+## Lake
 #lvl_00
   19
   15,U,X
@@ -227,7 +225,7 @@ EndRepeat
   40
 
 AnalogMode,Ignore
-
+## Hollows
 #lvl_04
    1,R,J,G
    1,R,K,G
@@ -325,10 +323,10 @@ AnalogMode,Ignore
 
 #lvl_06
    3,R,D
-stunpause
+StunPause
    3,R,D
    1,R,J
-endstunpause
+EndStunPause
    3,J
    5,R,J
    2,J
@@ -733,6 +731,7 @@ AnalogMode,Precise
    5,R
   40
 
+## Reflection
 #lvl_b-00
    2,R
   16,R,D,X
@@ -894,7 +893,6 @@ AnalogMode,Precise
    7,F,179.99
   15,D,X
   15,D,C
-#Rock Bottom
   15,D,X
  103,D
    1,R
@@ -949,6 +947,7 @@ EndStunPause
    5,R,J,G
   43
 
+## Rock Bottom
 #lvl_boss-00
   13,R
    1,S
@@ -1714,6 +1713,7 @@ AnalogMode,Precise
    7,K,G
   40
 
+## Resolution
 #lvl_after-00
    8
    9,L,J,G
@@ -1792,4 +1792,5 @@ AnalogMode,Precise
    1,D,J
   18
 AnalogMode,Ignore
+##
 ChapterTime: 4:29.892(15876)

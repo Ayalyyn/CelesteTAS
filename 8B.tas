@@ -5,6 +5,7 @@ console hard 9
 #Start
   54
 
+## Start
 #lvl_00
    4,D,X
    2,R,J
@@ -79,6 +80,7 @@ console hard 9
    5,R,D,X
   40
 
+## Into the Core
 #lvl_a-00
   10,R,D,X
    1,R
@@ -231,6 +233,7 @@ console hard 9
   13,K,G
   40
 
+## Burning or Freezing
 #lvl_b-00
   11,R,J,G
    1,R
@@ -520,6 +523,7 @@ EndRepeat
   13,R
   40
 
+## Heartbeat
 #lvl_c-01
    1,R
    7,R,J
@@ -900,4 +904,5 @@ EndRepeat
   14,R,J
   14,R,U,C
  135,R
+##
 ChapterTime: 2:03.998(7294)

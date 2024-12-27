@@ -4,6 +4,7 @@ console hard 1
 #Start
   88
 
+## Start
 #lvl_00
   10,R,X
   11,R,J
@@ -170,6 +171,7 @@ console hard 1
   13,R,U,Z
   40
 
+## Contraption
 #lvl_04
    1,L
   10,J,G
@@ -339,6 +341,7 @@ console hard 1
    1,J
   40
 
+## Scrap Pit
 #lvl_08
    1,L,K,G
   10,L
@@ -681,4 +684,5 @@ EndRepeat
   20,L,J
  100,L,X
   46,L,D
+##
 ChapterTime: 1:04.702(3806)

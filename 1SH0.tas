@@ -4,6 +4,7 @@ console load 1
 #Start
   88
 
+## Start
 #lvl_1
    5,R,X
    6,R,J
@@ -237,6 +238,7 @@ console load 1
   15,U,X
   40
 
+## Crossing
 #lvl_6
   11,R,J
    2,J
@@ -720,6 +722,7 @@ SaveAndQuitReenter
    1,R,J
   40
 
+## Chasm
 #lvl_9b (0)
    3,R
   12,R,J
@@ -941,4 +944,5 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
+##
 FileTime: 1:49.956(6468)

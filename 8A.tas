@@ -8,6 +8,7 @@ console load 9
 #lvl_00
 Read,8S,lvl_00,lvl_a-03
 
+## Into the Core
 #lvl_a-03
    1,L,K,G
    5,L,J,G
@@ -44,6 +45,7 @@ Read,8S,lvl_00,lvl_a-03
 #lvl_b-07b
 Read,8S,lvl_b-07b,lvl_c-00 (0)
 
+## Hot and Cold
 #lvl_c-00
    1,L
    1,R,J,G
@@ -154,6 +156,7 @@ Read,8S,lvl_b-07b,lvl_c-00 (0)
    6,R,U,Z
   40
 
+***
 #lvl_c-04
    3,R,U,Z
    1,L
@@ -171,6 +174,7 @@ Read,8S,lvl_b-07b,lvl_c-00 (0)
    5,R,U,V
   40
 
+## Heart of the Mountain
 #lvl_d-00
    5,R,U,V
    1,L,K,G
@@ -217,4 +221,5 @@ Read,8S,lvl_d-01,lvl_d-06
 
 #lvl_d-07
 Read,8S,lvl_d-07
+##
 ChapterTime: 2:20.913(8289)

@@ -4,6 +4,7 @@ console load 2
 #Start
  190
 
+## Start
 #lvl_start
   13,R,Z
    1,R,J
@@ -195,6 +196,7 @@ console load 2
   15,U,X
   40
 
+## Intervention
 #lvl_3
    1,R
   10,J
@@ -597,6 +599,7 @@ console load 2
    1,J,F,180
 SaveAndQuitReenter
   36
+## Awake
    5,L,D,X
    2,R,J
    8,R
@@ -680,4 +683,5 @@ SaveAndQuitReenter
    1,S
    1,D,J
   18
+##
 FileTime: 1:28.230(5190)
