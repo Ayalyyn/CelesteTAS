@@ -1,16 +1,4 @@
 console clrsav
-#console load 5 2288 32
-#play,Depths,1
-
-#console load 5 -832 1688
-#play,Unravelling,37
-
-#console load 5 3200 2290
-#play,Search,39
-
-#console load 5 2964 1287 419 38
-#play,Rescue,37
-
 unsafe
 console load 5
    1
@@ -850,6 +838,7 @@ Add 58
   46
 Add 1
 
+# Return
 ## Depths
   36
 #lvl_b-00 (1)

@@ -360,11 +360,11 @@ console load 5
    2,R
   40
 
-#lvl_b-19 (0)
+#lvl_b-19
 read,5S,lvl_b-19,lvl_b-16
 
 ## Unravelling
-#lvl_b-16 (0)
+#lvl_b-16
 read,5S,lvl_b-16,lvl_c-08
 
 #lvl_c-08

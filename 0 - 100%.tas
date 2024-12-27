@@ -168,7 +168,7 @@ Add 58
   46
 Add 1
 
-Read,7B,2000M
+Read,7B,Return
 
 Read,LoadB,0,Core
    1,R

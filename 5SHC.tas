@@ -20,7 +20,7 @@ Add 58
 Add 1
 
 #lvl_b-00 (0)
-read,5S,Depths,lvl_b-20 (0)
+read,5S,Return,lvl_b-20 (0)
 
 #lvl_b-20 (0)
   11,R,J

@@ -724,7 +724,6 @@ console hard 7
   14,U,C
  295
 
-## 2000M
 #lvl_e-00
   37
 #Exit
@@ -745,6 +744,7 @@ Add 58
   46
 
 #Return
+## 2000M
   36
 #Spinner Cycle 0-2
    0
